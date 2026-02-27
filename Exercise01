@@ -1,0 +1,15 @@
+__Find the title of each film ✓__
+SELECT title
+FROM movies;
+__Find the director of each film ✓__
+SELECT director
+FROM movies;
+__Find the title and director of each film ✓__
+SELECT title, director
+FROM movies;
+__Find the title and year of each film ✓__
+SELECT title, year
+FROM movies;
+__Find all the information about each film__
+SELECT *
+FROM movies;
